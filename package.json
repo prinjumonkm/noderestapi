@@ -1,0 +1,9 @@
+{
+    "name": "rest-api",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.13.1",
+        "mongoose": "^4.2.6",
+        "body-parser": "~1.13.2"
+    }
+}
